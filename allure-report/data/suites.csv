@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Description","5223","inputCred","All Test Suite","Fri Feb 21 12:24:38 MSK 2025","passed","Fri Feb 21 12:24:43 MSK 2025","test.tetsLayer.AuthorizationTest","AuthorizationTest","test.tetsLayer.AuthorizationTest","inputCred"
+"Тест проверяет флоу авторизации","3215","Тест проверяет флоу авторизации","All Test Suite","Fri Feb 21 12:24:34 MSK 2025","passed","Fri Feb 21 12:24:38 MSK 2025","test.tetsLayer.AuthorizationTest","AuthorizationTest","test.tetsLayer.AuthorizationTest","authorization"

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/leonidneganov/Downloads/AutomationSelenium/src/test/java/test/tetsLayer/AppleTest.java">
+        <classes>
+            <class name="test.tetsLayer.AppleTest">
+                <methods>
+                    <include name="nameTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
