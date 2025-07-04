@@ -10,7 +10,7 @@ import java.time.Duration;
 
 public class HomePage extends BasePage {
 
-    private static Logger LOGGER = LoggerFactory.getLogger(HomePage.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(HomePage.class);
 
     By searchButton = By.xpath("//a[@id='globalnav-menubutton-link-search']");
     By searchbar = By.xpath("//input[@class='globalnav-searchfield-input']");
