@@ -1,4 +1,4 @@
-package test.tetsLayer;
+//package test.tetsLayer;
 
 //import io.restassured.RestAssured;
 //import io.restassured.http.ContentType;
@@ -17,7 +17,7 @@ package test.tetsLayer;
 //import static io.restassured.RestAssured.*;
 //import static org.hamcrest.Matchers.*;
 
-public class UsersApiTest {
+//public class UsersApiTest {
 
 //    String baseUrl = "https://reqres.in/api/users";
 //
@@ -165,4 +165,4 @@ public class UsersApiTest {
 //                {"id"}
 //        };
 //    }
-}
+//}

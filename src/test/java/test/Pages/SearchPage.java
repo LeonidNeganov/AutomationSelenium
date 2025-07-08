@@ -13,7 +13,7 @@ import java.time.Duration;
 
 public class SearchPage extends HomePage {
 
-    private static Logger LOGGER = LoggerFactory.getLogger(SearchPage.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(SearchPage.class);
 
 //    By iphoneName = By.xpath("//a[text() = " + val);
 
