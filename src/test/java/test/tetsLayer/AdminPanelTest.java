@@ -1,8 +1,8 @@
 package test.tetsLayer;
 
-import org.testng.Assert;
-import org.testng.annotations.Test;
-import test.Pages.AdminHomePage;
+//import org.testng.Assert;
+//import org.testng.annotations.Test;
+//import test.Pages.AdminHomePage;
 
 public class AdminPanelTest extends BaseTest {
 

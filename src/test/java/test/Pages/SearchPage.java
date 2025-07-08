@@ -6,8 +6,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import test.coreLayer.Driver;
-import test.tetsLayer.BaseTest;
+//import test.coreLayer.Driver;
+//import test.tetsLayer.BaseTest;
 
 import java.time.Duration;
 

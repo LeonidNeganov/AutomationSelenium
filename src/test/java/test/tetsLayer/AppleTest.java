@@ -1,8 +1,8 @@
 package test.tetsLayer;
 
 import org.testng.annotations.DataProvider;
-import org.testng.annotations.Parameters;
-import test.Pages.DP;
+//import org.testng.annotations.Parameters;
+//import test.Pages.DP;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

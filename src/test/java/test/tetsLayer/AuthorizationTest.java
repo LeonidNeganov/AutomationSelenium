@@ -1,9 +1,9 @@
 package test.tetsLayer;
 
-import io.qameta.allure.*;
-import org.testng.Assert;
-import org.testng.annotations.Test;
-import test.Pages.Login;
+//import io.qameta.allure.*;
+//import org.testng.Assert;
+//import org.testng.annotations.Test;
+//import test.Pages.Login;
 
 public class AuthorizationTest extends BaseTest {
 
