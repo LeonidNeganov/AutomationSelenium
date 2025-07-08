@@ -21,7 +21,8 @@ public class SearchPage extends HomePage {
 
         WebDriverWait WebDriverWait = new WebDriverWait(driver, Duration.ofSeconds(10));
 //        WebDriverWait.until(ExpectedConditions.presenceOfElementLocated(iphoneName));
-        WebDriverWait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[text() = '" + val + "'" + "]")));
+//        WebDriverWait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[text() = '" + val + "'" + "]")));
+        WebDriverWait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//a[text() = '" + val + "'" + "]")));
         WebElement prodElement = driver.findElement(By.xpath("//a[text() = '" + val + "'" + "]"));
         LOGGER.info("Running 'getProductText' method, text - {}", prodElement.getText());
 //        System.out.println(prodElement.getText());

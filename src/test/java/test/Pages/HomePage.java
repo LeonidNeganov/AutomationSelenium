@@ -32,8 +32,5 @@ public class HomePage extends BasePage {
         WebElement searchbarElement = driver.findElement(searchbar);
         searchbarElement.sendKeys(val);
         searchbarElement.sendKeys(Keys.ENTER);
-        searchbarElement.sendKeys(Keys.ENTER);
     }
-
-
 }
